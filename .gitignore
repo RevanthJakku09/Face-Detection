@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated outputs
+Software/output/
+
+# IDE files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
