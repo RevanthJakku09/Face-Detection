@@ -24,7 +24,7 @@ OUTPUT_ANNOTATION_FILE = os.path.join(
 )
 
 # Number of images to select
-NUM_IMAGES = 100
+NUM_IMAGES = 500
 
 # Fixed seed so the same images are selected every time
 RANDOM_SEED = 42
